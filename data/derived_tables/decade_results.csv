@@ -16,34 +16,34 @@ bge,all,2015–,708,uncle,삼촌 교수,0.012399,0.001766,7.022
 bge,all,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.000544,0.000839,-0.648
 bge,confirmed,≤2004,136,advisor,지도교수,0.021156,0.002968,7.127
 bge,confirmed,≤2004,136,grand,조부 교수,0.028265,0.000000,28265033.628
-bge,confirmed,≤2004,136,sibling,형제 교수,0.013499,0.002971,4.544
-bge,confirmed,≤2004,136,uncle,삼촌 교수,0.004135,0.002673,1.547
-bge,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000639,0.001216,-0.525
+bge,confirmed,≤2004,136,sibling,형제 교수,0.013552,0.002967,4.567
+bge,confirmed,≤2004,136,uncle,삼촌 교수,0.004062,0.002584,1.572
+bge,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000598,0.001261,-0.474
 bge,confirmed,2005–2014,590,advisor,지도교수,0.025826,0.002490,10.370
-bge,confirmed,2005–2014,590,grand,조부 교수,0.022819,0.005521,4.133
-bge,confirmed,2005–2014,590,sibling,형제 교수,0.019996,0.002348,8.518
-bge,confirmed,2005–2014,590,uncle,삼촌 교수,0.007236,0.002542,2.847
-bge,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000406,0.001019,0.398
+bge,confirmed,2005–2014,590,grand,조부 교수,0.022814,0.005516,4.136
+bge,confirmed,2005–2014,590,sibling,형제 교수,0.019987,0.002333,8.566
+bge,confirmed,2005–2014,590,uncle,삼촌 교수,0.007167,0.002347,3.054
+bge,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000424,0.001066,0.397
 bge,confirmed,2015–,708,advisor,지도교수,0.027217,0.002319,11.734
-bge,confirmed,2015–,708,grand,조부 교수,0.014872,0.004340,3.427
-bge,confirmed,2015–,708,sibling,형제 교수,0.015901,0.002398,6.631
-bge,confirmed,2015–,708,uncle,삼촌 교수,0.012664,0.001795,7.055
-bge,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.000514,0.000818,-0.629
+bge,confirmed,2015–,708,grand,조부 교수,0.015012,0.004317,3.478
+bge,confirmed,2015–,708,sibling,형제 교수,0.015969,0.002404,6.642
+bge,confirmed,2015–,708,uncle,삼촌 교수,0.012450,0.001789,6.960
+bge,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.000544,0.000839,-0.648
 bge,confirmed_inferred,≤2004,136,advisor,지도교수,0.021156,0.002968,7.127
 bge,confirmed_inferred,≤2004,136,grand,조부 교수,0.028265,0.000000,28265033.628
-bge,confirmed_inferred,≤2004,136,sibling,형제 교수,0.013498,0.002924,4.617
-bge,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.004158,0.002675,1.555
-bge,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000639,0.001216,-0.525
+bge,confirmed_inferred,≤2004,136,sibling,형제 교수,0.013549,0.002920,4.639
+bge,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.004087,0.002587,1.580
+bge,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000598,0.001261,-0.474
 bge,confirmed_inferred,2005–2014,590,advisor,지도교수,0.025826,0.002490,10.370
-bge,confirmed_inferred,2005–2014,590,grand,조부 교수,0.022824,0.005522,4.133
-bge,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.020007,0.002270,8.812
-bge,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.007246,0.002543,2.850
-bge,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000406,0.001019,0.398
+bge,confirmed_inferred,2005–2014,590,grand,조부 교수,0.022819,0.005516,4.137
+bge,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.019998,0.002258,8.858
+bge,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.007180,0.002348,3.058
+bge,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000424,0.001066,0.397
 bge,confirmed_inferred,2015–,708,advisor,지도교수,0.027217,0.002319,11.734
-bge,confirmed_inferred,2015–,708,grand,조부 교수,0.014945,0.004336,3.447
-bge,confirmed_inferred,2015–,708,sibling,형제 교수,0.016851,0.002266,7.437
-bge,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.012607,0.001772,7.115
-bge,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.000514,0.000818,-0.629
+bge,confirmed_inferred,2015–,708,grand,조부 교수,0.015079,0.004314,3.496
+bge,confirmed_inferred,2015–,708,sibling,형제 교수,0.016911,0.002271,7.447
+bge,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.012399,0.001766,7.022
+bge,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.000544,0.000839,-0.648
 bge_subset,all,≤2004,82,advisor,지도교수,0.017807,0.003522,5.056
 bge_subset,all,≤2004,82,grand,조부 교수,0.027056,0.000000,27055661.300
 bge_subset,all,≤2004,82,sibling,형제 교수,0.015525,0.004979,3.118
@@ -61,34 +61,34 @@ bge_subset,all,2015–,626,uncle,삼촌 교수,0.011887,0.001838,6.468
 bge_subset,all,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.000558,0.000842,-0.663
 bge_subset,confirmed,≤2004,82,advisor,지도교수,0.017807,0.003522,5.056
 bge_subset,confirmed,≤2004,82,grand,조부 교수,0.027056,0.000000,27055661.300
-bge_subset,confirmed,≤2004,82,sibling,형제 교수,0.015218,0.005255,2.896
-bge_subset,confirmed,≤2004,82,uncle,삼촌 교수,0.005896,0.004714,1.251
-bge_subset,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,-0.001648,0.001240,-1.329
+bge_subset,confirmed,≤2004,82,sibling,형제 교수,0.015468,0.005218,2.964
+bge_subset,confirmed,≤2004,82,uncle,삼촌 교수,0.005491,0.004270,1.286
+bge_subset,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,-0.001600,0.001319,-1.213
 bge_subset,confirmed,2005–2014,437,advisor,지도교수,0.023665,0.002433,9.726
-bge_subset,confirmed,2005–2014,437,grand,조부 교수,0.027959,0.004599,6.079
-bge_subset,confirmed,2005–2014,437,sibling,형제 교수,0.019586,0.002548,7.688
-bge_subset,confirmed,2005–2014,437,uncle,삼촌 교수,0.009528,0.002921,3.263
-bge_subset,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000644,0.000943,0.682
+bge_subset,confirmed,2005–2014,437,grand,조부 교수,0.027998,0.004590,6.100
+bge_subset,confirmed,2005–2014,437,sibling,형제 교수,0.019701,0.002531,7.785
+bge_subset,confirmed,2005–2014,437,uncle,삼촌 교수,0.009095,0.002657,3.422
+bge_subset,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000719,0.000985,0.730
 bge_subset,confirmed,2015–,626,advisor,지도교수,0.025652,0.002282,11.241
-bge_subset,confirmed,2015–,626,grand,조부 교수,0.012424,0.004764,2.608
-bge_subset,confirmed,2015–,626,sibling,형제 교수,0.016249,0.002486,6.536
-bge_subset,confirmed,2015–,626,uncle,삼촌 교수,0.012161,0.001870,6.503
-bge_subset,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.000524,0.000821,-0.639
+bge_subset,confirmed,2015–,626,grand,조부 교수,0.012602,0.004751,2.652
+bge_subset,confirmed,2015–,626,sibling,형제 교수,0.016336,0.002496,6.545
+bge_subset,confirmed,2015–,626,uncle,삼촌 교수,0.011955,0.001865,6.411
+bge_subset,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.000558,0.000842,-0.663
 bge_subset,confirmed_inferred,≤2004,82,advisor,지도교수,0.017807,0.003522,5.056
 bge_subset,confirmed_inferred,≤2004,82,grand,조부 교수,0.027056,0.000000,27055661.300
-bge_subset,confirmed_inferred,≤2004,82,sibling,형제 교수,0.015293,0.005011,3.052
-bge_subset,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.005938,0.004715,1.259
-bge_subset,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,-0.001648,0.001240,-1.329
+bge_subset,confirmed_inferred,≤2004,82,sibling,형제 교수,0.015525,0.004979,3.118
+bge_subset,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.005539,0.004273,1.296
+bge_subset,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,-0.001600,0.001319,-1.213
 bge_subset,confirmed_inferred,2005–2014,437,advisor,지도교수,0.023665,0.002433,9.726
-bge_subset,confirmed_inferred,2005–2014,437,grand,조부 교수,0.027964,0.004598,6.081
-bge_subset,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.019605,0.002465,7.952
-bge_subset,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.009541,0.002921,3.266
-bge_subset,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000644,0.000943,0.682
+bge_subset,confirmed_inferred,2005–2014,437,grand,조부 교수,0.028002,0.004589,6.102
+bge_subset,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.019715,0.002450,8.046
+bge_subset,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.009111,0.002658,3.428
+bge_subset,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000719,0.000985,0.730
 bge_subset,confirmed_inferred,2015–,626,advisor,지도교수,0.025652,0.002282,11.241
-bge_subset,confirmed_inferred,2015–,626,grand,조부 교수,0.012504,0.004758,2.628
-bge_subset,confirmed_inferred,2015–,626,sibling,형제 교수,0.017188,0.002335,7.362
-bge_subset,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.012086,0.001843,6.558
-bge_subset,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.000524,0.000821,-0.639
+bge_subset,confirmed_inferred,2015–,626,grand,조부 교수,0.012674,0.004746,2.670
+bge_subset,confirmed_inferred,2015–,626,sibling,형제 교수,0.017264,0.002343,7.369
+bge_subset,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.011887,0.001838,6.468
+bge_subset,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.000558,0.000842,-0.663
 tfidf,all,≤2004,82,advisor,지도교수,0.013855,0.002756,5.027
 tfidf,all,≤2004,82,grand,조부 교수,0.011613,0.000000,11613224.327
 tfidf,all,≤2004,82,sibling,형제 교수,0.016104,0.003130,5.145
@@ -106,34 +106,34 @@ tfidf,all,2015–,626,uncle,삼촌 교수,0.010883,0.001445,7.534
 tfidf,all,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.001026,0.000711,1.444
 tfidf,confirmed,≤2004,82,advisor,지도교수,0.013855,0.002756,5.027
 tfidf,confirmed,≤2004,82,grand,조부 교수,0.011613,0.000000,11613224.327
-tfidf,confirmed,≤2004,82,sibling,형제 교수,0.016027,0.003317,4.832
-tfidf,confirmed,≤2004,82,uncle,삼촌 교수,0.012332,0.003607,3.419
-tfidf,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002565,0.001600,1.603
+tfidf,confirmed,≤2004,82,sibling,형제 교수,0.016236,0.003316,4.896
+tfidf,confirmed,≤2004,82,uncle,삼촌 교수,0.011870,0.003355,3.539
+tfidf,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002710,0.001641,1.652
 tfidf,confirmed,2005–2014,437,advisor,지도교수,0.021893,0.002105,10.403
-tfidf,confirmed,2005–2014,437,grand,조부 교수,0.007134,0.002575,2.770
-tfidf,confirmed,2005–2014,437,sibling,형제 교수,0.018595,0.001977,9.404
-tfidf,confirmed,2005–2014,437,uncle,삼촌 교수,0.007433,0.002336,3.181
-tfidf,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001570,0.000786,1.997
+tfidf,confirmed,2005–2014,437,grand,조부 교수,0.007178,0.002574,2.789
+tfidf,confirmed,2005–2014,437,sibling,형제 교수,0.018725,0.001983,9.444
+tfidf,confirmed,2005–2014,437,uncle,삼촌 교수,0.006941,0.002169,3.200
+tfidf,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001688,0.000814,2.073
 tfidf,confirmed,2015–,626,advisor,지도교수,0.027017,0.001971,13.708
-tfidf,confirmed,2015–,626,grand,조부 교수,0.006754,0.002820,2.395
-tfidf,confirmed,2015–,626,sibling,형제 교수,0.016830,0.002232,7.540
-tfidf,confirmed,2015–,626,uncle,삼촌 교수,0.011107,0.001482,7.495
-tfidf,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.001076,0.000691,1.557
+tfidf,confirmed,2015–,626,grand,조부 교수,0.006866,0.002800,2.453
+tfidf,confirmed,2015–,626,sibling,형제 교수,0.016886,0.002240,7.537
+tfidf,confirmed,2015–,626,uncle,삼촌 교수,0.010929,0.001467,7.452
+tfidf,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.001026,0.000711,1.444
 tfidf,confirmed_inferred,≤2004,82,advisor,지도교수,0.013855,0.002756,5.027
 tfidf,confirmed_inferred,≤2004,82,grand,조부 교수,0.011613,0.000000,11613224.327
-tfidf,confirmed_inferred,≤2004,82,sibling,형제 교수,0.015906,0.003129,5.084
-tfidf,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.012335,0.003602,3.424
-tfidf,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002565,0.001600,1.603
+tfidf,confirmed_inferred,≤2004,82,sibling,형제 교수,0.016104,0.003130,5.145
+tfidf,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.011872,0.003349,3.545
+tfidf,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002710,0.001641,1.652
 tfidf,confirmed_inferred,2005–2014,437,advisor,지도교수,0.021893,0.002105,10.403
-tfidf,confirmed_inferred,2005–2014,437,grand,조부 교수,0.007132,0.002575,2.769
-tfidf,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.018353,0.001921,9.555
-tfidf,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.007427,0.002338,3.177
-tfidf,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001570,0.000786,1.997
+tfidf,confirmed_inferred,2005–2014,437,grand,조부 교수,0.007176,0.002574,2.788
+tfidf,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.018480,0.001926,9.593
+tfidf,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.006936,0.002170,3.196
+tfidf,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001688,0.000814,2.073
 tfidf,confirmed_inferred,2015–,626,advisor,지도교수,0.027017,0.001971,13.708
-tfidf,confirmed_inferred,2015–,626,grand,조부 교수,0.006787,0.002815,2.411
-tfidf,confirmed_inferred,2015–,626,sibling,형제 교수,0.017281,0.002120,8.150
-tfidf,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.011057,0.001460,7.576
-tfidf,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.001076,0.000691,1.557
+tfidf,confirmed_inferred,2015–,626,grand,조부 교수,0.006897,0.002796,2.467
+tfidf,confirmed_inferred,2015–,626,sibling,형제 교수,0.017330,0.002128,8.144
+tfidf,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.010883,0.001445,7.534
+tfidf,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.001026,0.000711,1.444
 lsa300,all,≤2004,82,advisor,지도교수,0.031664,0.008015,3.951
 lsa300,all,≤2004,82,grand,조부 교수,0.041769,0.000000,41768502.647
 lsa300,all,≤2004,82,sibling,형제 교수,0.026743,0.005712,4.682
@@ -151,34 +151,34 @@ lsa300,all,2015–,626,uncle,삼촌 교수,0.019978,0.002950,6.771
 lsa300,all,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.000390,0.001386,0.281
 lsa300,confirmed,≤2004,82,advisor,지도교수,0.031664,0.008015,3.951
 lsa300,confirmed,≤2004,82,grand,조부 교수,0.041769,0.000000,41768502.647
-lsa300,confirmed,≤2004,82,sibling,형제 교수,0.026451,0.006036,4.382
-lsa300,confirmed,≤2004,82,uncle,삼촌 교수,0.021549,0.005697,3.782
-lsa300,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.003825,0.003154,1.213
+lsa300,confirmed,≤2004,82,sibling,형제 교수,0.026836,0.006042,4.442
+lsa300,confirmed,≤2004,82,uncle,삼촌 교수,0.020359,0.005445,3.739
+lsa300,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.004108,0.003258,1.261
 lsa300,confirmed,2005–2014,437,advisor,지도교수,0.035613,0.003559,10.007
-lsa300,confirmed,2005–2014,437,grand,조부 교수,0.027537,0.005017,5.489
-lsa300,confirmed,2005–2014,437,sibling,형제 교수,0.029572,0.003647,8.109
-lsa300,confirmed,2005–2014,437,uncle,삼촌 교수,0.014864,0.004369,3.402
-lsa300,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.002393,0.001556,1.538
+lsa300,confirmed,2005–2014,437,grand,조부 교수,0.027617,0.005006,5.517
+lsa300,confirmed,2005–2014,437,sibling,형제 교수,0.029808,0.003648,8.170
+lsa300,confirmed,2005–2014,437,uncle,삼촌 교수,0.013928,0.004052,3.437
+lsa300,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.002542,0.001617,1.572
 lsa300,confirmed,2015–,626,advisor,지도교수,0.043029,0.003327,12.935
-lsa300,confirmed,2015–,626,grand,조부 교수,0.016539,0.005182,3.192
-lsa300,confirmed,2015–,626,sibling,형제 교수,0.028137,0.004155,6.771
-lsa300,confirmed,2015–,626,uncle,삼촌 교수,0.020413,0.003027,6.743
-lsa300,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.000491,0.001346,0.365
+lsa300,confirmed,2015–,626,grand,조부 교수,0.016750,0.005166,3.243
+lsa300,confirmed,2015–,626,sibling,형제 교수,0.028241,0.004177,6.760
+lsa300,confirmed,2015–,626,uncle,삼촌 교수,0.020026,0.002998,6.679
+lsa300,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.000390,0.001386,0.281
 lsa300,confirmed_inferred,≤2004,82,advisor,지도교수,0.031664,0.008015,3.951
 lsa300,confirmed_inferred,≤2004,82,grand,조부 교수,0.041769,0.000000,41768502.647
-lsa300,confirmed_inferred,≤2004,82,sibling,형제 교수,0.026379,0.005704,4.625
-lsa300,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.021559,0.005691,3.788
-lsa300,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.003825,0.003154,1.213
+lsa300,confirmed_inferred,≤2004,82,sibling,형제 교수,0.026743,0.005712,4.682
+lsa300,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.020370,0.005437,3.747
+lsa300,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.004108,0.003258,1.261
 lsa300,confirmed_inferred,2005–2014,437,advisor,지도교수,0.035613,0.003559,10.007
-lsa300,confirmed_inferred,2005–2014,437,grand,조부 교수,0.027525,0.005021,5.481
-lsa300,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.028924,0.003558,8.128
-lsa300,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.014831,0.004375,3.390
-lsa300,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.002393,0.001556,1.538
+lsa300,confirmed_inferred,2005–2014,437,grand,조부 교수,0.027607,0.005009,5.512
+lsa300,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.029159,0.003561,8.189
+lsa300,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.013891,0.004057,3.424
+lsa300,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.002542,0.001617,1.572
 lsa300,confirmed_inferred,2015–,626,advisor,지도교수,0.043029,0.003327,12.935
-lsa300,confirmed_inferred,2015–,626,grand,조부 교수,0.016552,0.005180,3.195
-lsa300,confirmed_inferred,2015–,626,sibling,형제 교수,0.028363,0.003917,7.242
-lsa300,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.020358,0.002978,6.836
-lsa300,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.000491,0.001346,0.365
+lsa300,confirmed_inferred,2015–,626,grand,조부 교수,0.016760,0.005163,3.246
+lsa300,confirmed_inferred,2015–,626,sibling,형제 교수,0.028456,0.003937,7.228
+lsa300,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.019978,0.002950,6.771
+lsa300,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,0.000390,0.001386,0.281
 lda50,all,≤2004,82,advisor,지도교수,0.081532,0.015405,5.293
 lda50,all,≤2004,82,grand,조부 교수,0.095589,0.000000,95589402.692
 lda50,all,≤2004,82,sibling,형제 교수,0.093907,0.020551,4.570
@@ -196,34 +196,34 @@ lda50,all,2015–,626,uncle,삼촌 교수,0.073927,0.009371,7.888
 lda50,all,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.004585,0.003865,-1.186
 lda50,confirmed,≤2004,82,advisor,지도교수,0.081532,0.015405,5.293
 lda50,confirmed,≤2004,82,grand,조부 교수,0.095589,0.000000,95589402.692
-lda50,confirmed,≤2004,82,sibling,형제 교수,0.093745,0.022010,4.259
-lda50,confirmed,≤2004,82,uncle,삼촌 교수,0.073404,0.018067,4.063
-lda50,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.000711,0.006661,0.107
+lda50,confirmed,≤2004,82,sibling,형제 교수,0.094549,0.021597,4.378
+lda50,confirmed,≤2004,82,uncle,삼촌 교수,0.066707,0.017224,3.873
+lda50,confirmed,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002092,0.006682,0.313
 lda50,confirmed,2005–2014,437,advisor,지도교수,0.094748,0.010582,8.953
-lda50,confirmed,2005–2014,437,grand,조부 교수,0.133345,0.029734,4.485
-lda50,confirmed,2005–2014,437,sibling,형제 교수,0.089487,0.012803,6.990
-lda50,confirmed,2005–2014,437,uncle,삼촌 교수,0.059667,0.013613,4.383
-lda50,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000182,0.004633,0.039
+lda50,confirmed,2005–2014,437,grand,조부 교수,0.133727,0.029605,4.517
+lda50,confirmed,2005–2014,437,sibling,형제 교수,0.090615,0.012702,7.134
+lda50,confirmed,2005–2014,437,uncle,삼촌 교수,0.054602,0.013075,4.176
+lda50,confirmed,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001055,0.004691,0.225
 lda50,confirmed,2015–,626,advisor,지도교수,0.099544,0.008037,12.386
-lda50,confirmed,2015–,626,grand,조부 교수,0.072251,0.028465,2.538
-lda50,confirmed,2015–,626,sibling,형제 교수,0.085607,0.014159,6.046
-lda50,confirmed,2015–,626,uncle,삼촌 교수,0.075130,0.009594,7.831
-lda50,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.004260,0.003747,-1.137
+lda50,confirmed,2015–,626,grand,조부 교수,0.073029,0.028367,2.574
+lda50,confirmed,2015–,626,sibling,형제 교수,0.085991,0.014193,6.059
+lda50,confirmed,2015–,626,uncle,삼촌 교수,0.073949,0.009511,7.775
+lda50,confirmed,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.004585,0.003865,-1.186
 lda50,confirmed_inferred,≤2004,82,advisor,지도교수,0.081532,0.015405,5.293
 lda50,confirmed_inferred,≤2004,82,grand,조부 교수,0.095589,0.000000,95589402.692
-lda50,confirmed_inferred,≤2004,82,sibling,형제 교수,0.093142,0.020927,4.451
-lda50,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.073442,0.018055,4.068
-lda50,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.000711,0.006661,0.107
+lda50,confirmed_inferred,≤2004,82,sibling,형제 교수,0.093907,0.020551,4.570
+lda50,confirmed_inferred,≤2004,82,uncle,삼촌 교수,0.066761,0.017198,3.882
+lda50,confirmed_inferred,≤2004,82,same_uni_outside_lineage,계보 밖 같은 대학,0.002092,0.006682,0.313
 lda50,confirmed_inferred,2005–2014,437,advisor,지도교수,0.094748,0.010582,8.953
-lda50,confirmed_inferred,2005–2014,437,grand,조부 교수,0.133347,0.029733,4.485
-lda50,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.088318,0.012473,7.081
-lda50,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.059673,0.013616,4.382
-lda50,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.000182,0.004633,0.039
+lda50,confirmed_inferred,2005–2014,437,grand,조부 교수,0.133732,0.029604,4.517
+lda50,confirmed_inferred,2005–2014,437,sibling,형제 교수,0.089417,0.012381,7.222
+lda50,confirmed_inferred,2005–2014,437,uncle,삼촌 교수,0.054619,0.013076,4.177
+lda50,confirmed_inferred,2005–2014,437,same_uni_outside_lineage,계보 밖 같은 대학,0.001055,0.004691,0.225
 lda50,confirmed_inferred,2015–,626,advisor,지도교수,0.099544,0.008037,12.386
-lda50,confirmed_inferred,2015–,626,grand,조부 교수,0.072239,0.028468,2.538
-lda50,confirmed_inferred,2015–,626,sibling,형제 교수,0.084513,0.013028,6.487
-lda50,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.075088,0.009452,7.944
-lda50,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.004260,0.003747,-1.137
+lda50,confirmed_inferred,2015–,626,grand,조부 교수,0.073017,0.028369,2.574
+lda50,confirmed_inferred,2015–,626,sibling,형제 교수,0.084863,0.013064,6.496
+lda50,confirmed_inferred,2015–,626,uncle,삼촌 교수,0.073927,0.009371,7.888
+lda50,confirmed_inferred,2015–,626,same_uni_outside_lineage,계보 밖 같은 대학,-0.004585,0.003865,-1.186
 ko_sroberta,all,≤2004,136,advisor,지도교수,0.031607,0.005731,5.515
 ko_sroberta,all,≤2004,136,grand,조부 교수,0.030098,0.000000,30097825.528
 ko_sroberta,all,≤2004,136,sibling,형제 교수,0.027299,0.005136,5.315
@@ -241,34 +241,34 @@ ko_sroberta,all,2015–,708,uncle,삼촌 교수,0.021279,0.003033,7.016
 ko_sroberta,all,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.001937,0.001493,-1.297
 ko_sroberta,confirmed,≤2004,136,advisor,지도교수,0.031607,0.005731,5.515
 ko_sroberta,confirmed,≤2004,136,grand,조부 교수,0.030098,0.000000,30097825.528
-ko_sroberta,confirmed,≤2004,136,sibling,형제 교수,0.027259,0.005230,5.212
-ko_sroberta,confirmed,≤2004,136,uncle,삼촌 교수,0.009215,0.003282,2.808
-ko_sroberta,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002731,0.001451,-1.882
+ko_sroberta,confirmed,≤2004,136,sibling,형제 교수,0.027288,0.005232,5.215
+ko_sroberta,confirmed,≤2004,136,uncle,삼촌 교수,0.008961,0.003212,2.790
+ko_sroberta,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002668,0.001501,-1.777
 ko_sroberta,confirmed,2005–2014,590,advisor,지도교수,0.037969,0.003610,10.517
-ko_sroberta,confirmed,2005–2014,590,grand,조부 교수,0.034778,0.010316,3.371
-ko_sroberta,confirmed,2005–2014,590,sibling,형제 교수,0.033333,0.003891,8.566
-ko_sroberta,confirmed,2005–2014,590,uncle,삼촌 교수,0.014532,0.004171,3.484
-ko_sroberta,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000853,0.001564,0.546
+ko_sroberta,confirmed,2005–2014,590,grand,조부 교수,0.034845,0.010311,3.379
+ko_sroberta,confirmed,2005–2014,590,sibling,형제 교수,0.033461,0.003883,8.617
+ko_sroberta,confirmed,2005–2014,590,uncle,삼촌 교수,0.013986,0.003866,3.618
+ko_sroberta,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001163,0.001622,0.717
 ko_sroberta,confirmed,2015–,708,advisor,지도교수,0.041966,0.003698,11.348
-ko_sroberta,confirmed,2015–,708,grand,조부 교수,0.030913,0.005593,5.527
-ko_sroberta,confirmed,2015–,708,sibling,형제 교수,0.027746,0.003932,7.056
-ko_sroberta,confirmed,2015–,708,uncle,삼촌 교수,0.021523,0.003100,6.944
-ko_sroberta,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.001850,0.001454,-1.272
+ko_sroberta,confirmed,2015–,708,grand,조부 교수,0.031077,0.005574,5.575
+ko_sroberta,confirmed,2015–,708,sibling,형제 교수,0.027827,0.003943,7.057
+ko_sroberta,confirmed,2015–,708,uncle,삼촌 교수,0.021219,0.003072,6.907
+ko_sroberta,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.001937,0.001493,-1.297
 ko_sroberta,confirmed_inferred,≤2004,136,advisor,지도교수,0.031607,0.005731,5.515
 ko_sroberta,confirmed_inferred,≤2004,136,grand,조부 교수,0.030098,0.000000,30097825.528
-ko_sroberta,confirmed_inferred,≤2004,136,sibling,형제 교수,0.027271,0.005133,5.313
-ko_sroberta,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.009237,0.003286,2.811
-ko_sroberta,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002731,0.001451,-1.882
+ko_sroberta,confirmed_inferred,≤2004,136,sibling,형제 교수,0.027299,0.005136,5.315
+ko_sroberta,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.008986,0.003216,2.794
+ko_sroberta,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002668,0.001501,-1.777
 ko_sroberta,confirmed_inferred,2005–2014,590,advisor,지도교수,0.037969,0.003610,10.517
-ko_sroberta,confirmed_inferred,2005–2014,590,grand,조부 교수,0.034790,0.010316,3.372
-ko_sroberta,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.033320,0.003768,8.843
-ko_sroberta,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.014555,0.004170,3.490
-ko_sroberta,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000853,0.001564,0.546
+ko_sroberta,confirmed_inferred,2005–2014,590,grand,조부 교수,0.034857,0.010311,3.380
+ko_sroberta,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.033443,0.003761,8.891
+ko_sroberta,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.014015,0.003866,3.626
+ko_sroberta,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001163,0.001622,0.717
 ko_sroberta,confirmed_inferred,2015–,708,advisor,지도교수,0.041966,0.003698,11.348
-ko_sroberta,confirmed_inferred,2015–,708,grand,조부 교수,0.030959,0.005593,5.535
-ko_sroberta,confirmed_inferred,2015–,708,sibling,형제 교수,0.028030,0.003629,7.724
-ko_sroberta,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.021578,0.003060,7.053
-ko_sroberta,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.001850,0.001454,-1.272
+ko_sroberta,confirmed_inferred,2015–,708,grand,조부 교수,0.031121,0.005574,5.583
+ko_sroberta,confirmed_inferred,2015–,708,sibling,형제 교수,0.028102,0.003639,7.723
+ko_sroberta,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.021279,0.003033,7.016
+ko_sroberta,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,-0.001937,0.001493,-1.297
 e5_large,all,≤2004,136,advisor,지도교수,0.005174,0.000893,5.795
 e5_large,all,≤2004,136,grand,조부 교수,0.004743,0.000000,4743189.267
 e5_large,all,≤2004,136,sibling,형제 교수,0.002777,0.000656,4.232
@@ -286,34 +286,34 @@ e5_large,all,2015–,708,uncle,삼촌 교수,0.002580,0.000370,6.973
 e5_large,all,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000005,0.000174,0.026
 e5_large,confirmed,≤2004,136,advisor,지도교수,0.005174,0.000893,5.795
 e5_large,confirmed,≤2004,136,grand,조부 교수,0.004743,0.000000,4743189.267
-e5_large,confirmed,≤2004,136,sibling,형제 교수,0.002754,0.000671,4.101
-e5_large,confirmed,≤2004,136,uncle,삼촌 교수,0.002714,0.000655,4.144
-e5_large,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000573,0.000271,-2.109
+e5_large,confirmed,≤2004,136,sibling,형제 교수,0.002774,0.000669,4.145
+e5_large,confirmed,≤2004,136,uncle,삼촌 교수,0.002676,0.000643,4.158
+e5_large,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000581,0.000280,-2.077
 e5_large,confirmed,2005–2014,590,advisor,지도교수,0.005787,0.000612,9.463
-e5_large,confirmed,2005–2014,590,grand,조부 교수,0.004451,0.001270,3.504
-e5_large,confirmed,2005–2014,590,sibling,형제 교수,0.003570,0.000507,7.042
-e5_large,confirmed,2005–2014,590,uncle,삼촌 교수,0.002098,0.000519,4.042
-e5_large,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000050,0.000207,0.242
+e5_large,confirmed,2005–2014,590,grand,조부 교수,0.004463,0.001270,3.513
+e5_large,confirmed,2005–2014,590,sibling,형제 교수,0.003592,0.000505,7.112
+e5_large,confirmed,2005–2014,590,uncle,삼촌 교수,0.002001,0.000490,4.087
+e5_large,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000069,0.000216,0.317
 e5_large,confirmed,2015–,708,advisor,지도교수,0.005768,0.000559,10.326
-e5_large,confirmed,2015–,708,grand,조부 교수,0.003669,0.000883,4.154
-e5_large,confirmed,2015–,708,sibling,형제 교수,0.003105,0.000446,6.955
-e5_large,confirmed,2015–,708,uncle,삼촌 교수,0.002590,0.000377,6.865
-e5_large,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000017,0.000170,0.102
+e5_large,confirmed,2015–,708,grand,조부 교수,0.003683,0.000881,4.180
+e5_large,confirmed,2015–,708,sibling,형제 교수,0.003111,0.000447,6.964
+e5_large,confirmed,2015–,708,uncle,삼촌 교수,0.002554,0.000374,6.827
+e5_large,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000005,0.000174,0.026
 e5_large,confirmed_inferred,≤2004,136,advisor,지도교수,0.005174,0.000893,5.795
 e5_large,confirmed_inferred,≤2004,136,grand,조부 교수,0.004743,0.000000,4743189.267
-e5_large,confirmed_inferred,≤2004,136,sibling,형제 교수,0.002758,0.000658,4.189
-e5_large,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.002724,0.000655,4.159
-e5_large,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000573,0.000271,-2.109
+e5_large,confirmed_inferred,≤2004,136,sibling,형제 교수,0.002777,0.000656,4.232
+e5_large,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.002685,0.000643,4.174
+e5_large,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.000581,0.000280,-2.077
 e5_large,confirmed_inferred,2005–2014,590,advisor,지도교수,0.005787,0.000612,9.463
-e5_large,confirmed_inferred,2005–2014,590,grand,조부 교수,0.004453,0.001270,3.506
-e5_large,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.003559,0.000490,7.268
-e5_large,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.002102,0.000519,4.050
-e5_large,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000050,0.000207,0.242
+e5_large,confirmed_inferred,2005–2014,590,grand,조부 교수,0.004465,0.001271,3.514
+e5_large,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.003580,0.000488,7.336
+e5_large,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.002005,0.000489,4.097
+e5_large,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.000069,0.000216,0.317
 e5_large,confirmed_inferred,2015–,708,advisor,지도교수,0.005768,0.000559,10.326
-e5_large,confirmed_inferred,2015–,708,grand,조부 교수,0.003686,0.000882,4.178
-e5_large,confirmed_inferred,2015–,708,sibling,형제 교수,0.003252,0.000421,7.733
-e5_large,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.002615,0.000373,7.010
-e5_large,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000017,0.000170,0.102
+e5_large,confirmed_inferred,2015–,708,grand,조부 교수,0.003699,0.000880,4.202
+e5_large,confirmed_inferred,2015–,708,sibling,형제 교수,0.003257,0.000421,7.739
+e5_large,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.002580,0.000370,6.973
+e5_large,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000005,0.000174,0.026
 mpnet_multilingual,all,≤2004,136,advisor,지도교수,0.016327,0.003770,4.331
 mpnet_multilingual,all,≤2004,136,grand,조부 교수,0.023414,0.000000,23413558.022
 mpnet_multilingual,all,≤2004,136,sibling,형제 교수,0.009388,0.003130,3.000
@@ -331,31 +331,31 @@ mpnet_multilingual,all,2015–,708,uncle,삼촌 교수,0.006278,0.001807,3.474
 mpnet_multilingual,all,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000773,0.001002,0.772
 mpnet_multilingual,confirmed,≤2004,136,advisor,지도교수,0.016327,0.003770,4.331
 mpnet_multilingual,confirmed,≤2004,136,grand,조부 교수,0.023414,0.000000,23413558.022
-mpnet_multilingual,confirmed,≤2004,136,sibling,형제 교수,0.009118,0.003213,2.838
-mpnet_multilingual,confirmed,≤2004,136,uncle,삼촌 교수,0.004788,0.003019,1.586
-mpnet_multilingual,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002017,0.001587,-1.271
+mpnet_multilingual,confirmed,≤2004,136,sibling,형제 교수,0.009223,0.003201,2.881
+mpnet_multilingual,confirmed,≤2004,136,uncle,삼촌 교수,0.004766,0.002997,1.590
+mpnet_multilingual,confirmed,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.001908,0.001680,-1.136
 mpnet_multilingual,confirmed,2005–2014,590,advisor,지도교수,0.017855,0.002620,6.816
-mpnet_multilingual,confirmed,2005–2014,590,grand,조부 교수,0.011407,0.006345,1.798
-mpnet_multilingual,confirmed,2005–2014,590,sibling,형제 교수,0.010371,0.002312,4.485
-mpnet_multilingual,confirmed,2005–2014,590,uncle,삼촌 교수,0.003016,0.002615,1.153
-mpnet_multilingual,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001856,0.000962,1.929
+mpnet_multilingual,confirmed,2005–2014,590,grand,조부 교수,0.011382,0.006344,1.794
+mpnet_multilingual,confirmed,2005–2014,590,sibling,형제 교수,0.010323,0.002304,4.482
+mpnet_multilingual,confirmed,2005–2014,590,uncle,삼촌 교수,0.003288,0.002464,1.334
+mpnet_multilingual,confirmed,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001735,0.001035,1.676
 mpnet_multilingual,confirmed,2015–,708,advisor,지도교수,0.021323,0.002697,7.906
-mpnet_multilingual,confirmed,2015–,708,grand,조부 교수,0.008234,0.003089,2.666
-mpnet_multilingual,confirmed,2015–,708,sibling,형제 교수,0.010607,0.002555,4.152
-mpnet_multilingual,confirmed,2015–,708,uncle,삼촌 교수,0.006308,0.001854,3.402
-mpnet_multilingual,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000799,0.000989,0.808
+mpnet_multilingual,confirmed,2015–,708,grand,조부 교수,0.008288,0.003076,2.694
+mpnet_multilingual,confirmed,2015–,708,sibling,형제 교수,0.010634,0.002563,4.149
+mpnet_multilingual,confirmed,2015–,708,uncle,삼촌 교수,0.006353,0.001831,3.470
+mpnet_multilingual,confirmed,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000773,0.001002,0.772
 mpnet_multilingual,confirmed_inferred,≤2004,136,advisor,지도교수,0.016327,0.003770,4.331
 mpnet_multilingual,confirmed_inferred,≤2004,136,grand,조부 교수,0.023414,0.000000,23413558.022
-mpnet_multilingual,confirmed_inferred,≤2004,136,sibling,형제 교수,0.009286,0.003141,2.957
-mpnet_multilingual,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.004795,0.003025,1.585
-mpnet_multilingual,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.002017,0.001587,-1.271
+mpnet_multilingual,confirmed_inferred,≤2004,136,sibling,형제 교수,0.009388,0.003130,3.000
+mpnet_multilingual,confirmed_inferred,≤2004,136,uncle,삼촌 교수,0.004774,0.003003,1.590
+mpnet_multilingual,confirmed_inferred,≤2004,136,same_uni_outside_lineage,계보 밖 같은 대학,-0.001908,0.001680,-1.136
 mpnet_multilingual,confirmed_inferred,2005–2014,590,advisor,지도교수,0.017855,0.002620,6.816
-mpnet_multilingual,confirmed_inferred,2005–2014,590,grand,조부 교수,0.011399,0.006343,1.797
-mpnet_multilingual,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.010174,0.002228,4.568
-mpnet_multilingual,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.003002,0.002616,1.147
-mpnet_multilingual,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001856,0.000962,1.929
+mpnet_multilingual,confirmed_inferred,2005–2014,590,grand,조부 교수,0.011376,0.006343,1.794
+mpnet_multilingual,confirmed_inferred,2005–2014,590,sibling,형제 교수,0.010131,0.002220,4.563
+mpnet_multilingual,confirmed_inferred,2005–2014,590,uncle,삼촌 교수,0.003273,0.002465,1.328
+mpnet_multilingual,confirmed_inferred,2005–2014,590,same_uni_outside_lineage,계보 밖 같은 대학,0.001735,0.001035,1.676
 mpnet_multilingual,confirmed_inferred,2015–,708,advisor,지도교수,0.021323,0.002697,7.906
-mpnet_multilingual,confirmed_inferred,2015–,708,grand,조부 교수,0.008225,0.003089,2.663
-mpnet_multilingual,confirmed_inferred,2015–,708,sibling,형제 교수,0.010305,0.002336,4.412
-mpnet_multilingual,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.006232,0.001830,3.406
-mpnet_multilingual,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000799,0.000989,0.808
+mpnet_multilingual,confirmed_inferred,2015–,708,grand,조부 교수,0.008279,0.003076,2.691
+mpnet_multilingual,confirmed_inferred,2015–,708,sibling,형제 교수,0.010329,0.002344,4.407
+mpnet_multilingual,confirmed_inferred,2015–,708,uncle,삼촌 교수,0.006278,0.001807,3.474
+mpnet_multilingual,confirmed_inferred,2015–,708,same_uni_outside_lineage,계보 밖 같은 대학,0.000773,0.001002,0.772

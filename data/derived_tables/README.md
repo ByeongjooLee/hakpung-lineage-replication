@@ -2,7 +2,7 @@
 
 한국 현대문학 박사학위논문과 지도교수의 KCI 논문 묶음 사이의 주제 유사도를, 지도교수·계보·대학 관계별로 비교한 분석의 재현 자료다. 원문·초록·임베딩 벡터는 넣지 않고, 쌍별 유사도(원·잔차)와 토픽 비중, 관계 표지, 결과표, 그리고 원자료를 되찾을 공개 식별자(RISS control_no, KCI ART id·cretId, 국중 KAC·ISNI)만 담았다.
 
-표본: 박사논문 1434편(어휘 표현은 본문 색인이 있는 1145편) × 교수 298명(KCI 논문 묶음 5967편). 학맥 기준일 2026-11-22. 교수→교수 간선 233건(확정 219 · 확정+추론 227).
+표본: 박사논문 1434편(어휘 표현은 본문 색인이 있는 1145편) × 교수 298명(KCI 논문 묶음 5967편). 학맥 기준일 2026-11-22. 교수→교수 간선 234건(확정 223 · 확정+추론 231).
 
 ## 파일
 
@@ -11,7 +11,7 @@
 | theses.csv | 1434 | 제자 박사논문(간선 1건 = 논문 1편): thesis_id(RISS control_no → riss_url), 제목·연도·학위 대학(정규화 표기), 지도교수 id·이름, 통합목록의 지도교수 원표기, 학위자 동일인 판정(확정/추론/미확인 + 원 판정), 어휘 표본 포함 여부, 간선 단계별 계보 뿌리 |
 | professors.csv | 298 | 교수: 이름·소속(분석용 정규화·학맥 원표기), 동일인 판정, 본인 박사논문 id, 박사학위 연도(출처: 학맥 간선 / 국중 박사논문 KAC / 이름+학과 유일), KAC·ISNI(A 등급), A 등급 cretId 집합과 판정 규칙, 묶음 논문 수, 표본 안 지도 논문 수, 간선 단계별 지도교수·뿌리 |
 | professor_articles.csv | 5967 | 교수 묶음에 들어간 KCI 논문: kci_id(→ kci_url)·cretId·연도·학술지·제목·현대문학 선별 상태. 제목 정규화 중복 제거 뒤 묶음(prelim_similarity.py 규칙) |
-| lineage_professor_edges.csv | 233 | 교수→교수 지도 간선(계보 구성의 원자료): 지도교수·제자 교수·논문·연도·대학·동일인 판정 3단계와 원 판정·근거·표본 포함 여부 |
+| lineage_professor_edges.csv | 234 | 교수→교수 지도 간선(계보 구성의 원자료): 지도교수·제자 교수·논문·연도·대학·동일인 판정 3단계와 원 판정·근거·표본 포함 여부 |
 | pair_relations_similarity.csv.gz | 427332 | 논문 × 교수 쌍 전체. same_university, 간선 단계별 관계(relation_all / relation_confirmed / relation_confirmed_inferred ∈ base·advisor·grand·sibling·uncle·lineage_other·same_uni_outside_lineage)와 같은 대학×계보 표지, 표현별 잔차 유사도(resid_<표현>)와 원 유사도(raw_<표현>; lda 는 Bhattacharyya 계수). 표현 = bge, bge_subset, tfidf, lsa300, lda50, ko_sroberta, e5_large, mpnet_multilingual. 어휘 표본(bge_subset·tfidf·lsa300·lda50) 밖 논문은 그 열이 빈칸 |
 | thesis_topics_k50.csv | 1145 | 박사논문 본문의 LDA(K=50) 토픽 비중 θ |
 | professor_topics_k50.csv | 298 | 교수 묶음의 토픽 비중(논문 θ 평균, 합 1) |

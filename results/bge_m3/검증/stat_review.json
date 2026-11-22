@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22 15:41",
- "label": "bge_m3 (학맥 2026-11-22)",
+ "generated": "2026-11-22 20:43",
+ "label": "bge_m3 (학맥 2026-11-22 밤)",
  "prelim": "참고문헌_구축\\학풍_학맥20261122\\bge_m3",
  "n_theses": 1434,
  "n_professors": 298,
@@ -9,9 +9,9 @@
  "perm": 300,
  "edge_status": "all",
  "prof_prof_edges": {
-  "all": 233,
-  "used": 233,
-  "professors_with_advisor": 232
+  "all": 234,
+  "used": 234,
+  "professors_with_advisor": 233
  },
  "main": {
   "advisor": {

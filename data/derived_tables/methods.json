@@ -1,6 +1,6 @@
 {
  "as_of": "2026-11-22",
- "generated": "2026-11-22 16:10",
+ "generated": "2026-11-22 21:01",
  "sample": {
   "theses_bge": 1434,
   "theses_lexical": 1145,
@@ -11,16 +11,16 @@
   "genealogy_as_of": "2026-11-22",
   "prof_prof_edges": {
    "all": {
-    "used": 233,
-    "all": 233
+    "used": 234,
+    "all": 234
    },
    "confirmed": {
-    "used": 219,
-    "all": 233
+    "used": 223,
+    "all": 234
    },
    "confirmed_inferred": {
-    "used": 227,
-    "all": 233
+    "used": 231,
+    "all": 234
    }
   },
   "student_identity_status_in_sample": {
