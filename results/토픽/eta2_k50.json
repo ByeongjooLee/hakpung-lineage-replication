@@ -1,0 +1,55 @@
+{
+ "advisor": {
+  "eta2": 0.3083915455324083,
+  "null_mean": 0.0872847671626661,
+  "null_sd": 0.004767338023826865,
+  "p": 0.0,
+  "n_theses": 872,
+  "n_groups": 77
+ },
+ "lineage_root": {
+  "eta2": 0.1962366956262436,
+  "null_mean": 0.05126730303509394,
+  "null_sd": 0.003588466188577309,
+  "p": 0.0,
+  "n_theses": 974,
+  "n_groups": 51
+ },
+ "university": {
+  "eta2": 0.09912696852337417,
+  "null_mean": 0.038682120519190795,
+  "null_sd": 0.0029601715895791712,
+  "p": 0.0,
+  "n_theses": 1081,
+  "n_groups": 43
+ },
+ "university_x_lineage": {
+  "eta2": 0.25983066416773265,
+  "null_mean": 0.07286758006950385,
+  "null_sd": 0.004557638645179173,
+  "p": 0.0,
+  "n_theses": 900,
+  "n_groups": 67
+ },
+ "university_beyond_lineage": {
+  "increment": 0.05199135717163364,
+  "null_mean": 0.017296753809803618,
+  "null_sd": 0.0022623282682454207,
+  "p": 0.0,
+  "n_theses": 900
+ },
+ "lineage_beyond_university": {
+  "increment": 0.14655196076794533,
+  "null_mean": 0.03436469171366808,
+  "null_sd": 0.003140156019179426,
+  "p": 0.0,
+  "n_theses": 900
+ },
+ "advisor_beyond_university": {
+  "increment": 0.1959969595257478,
+  "null_mean": 0.04713724505139612,
+  "null_sd": 0.0034297862517281073,
+  "p": 0.0,
+  "n_theses": 870
+ }
+}

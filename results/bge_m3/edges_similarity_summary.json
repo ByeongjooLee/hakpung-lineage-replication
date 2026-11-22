@@ -1,0 +1,11 @@
+{
+ "n_edges": 1434,
+ "mean_sim_advisor": 0.5796143654114365,
+ "mean_sim_other": 0.5466153417015341,
+ "n_same_uni": 1395,
+ "top1_same_uni": 0.41863799283154124,
+ "chance_top1_same_uni": 0.18109730174246302,
+ "top1_all": 0.041143654114365415,
+ "n_prof_all": 298,
+ "median_rank_all": 54.5
+}

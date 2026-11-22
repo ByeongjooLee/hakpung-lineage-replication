@@ -1,0 +1,421 @@
+representation,edge_tier,window,relation,relation_label,mean_resid,n_pairs,n_theses,ci95_thesis_boot_lo,ci95_thesis_boot_hi
+bge,all,학위 전 10년 (−10…−1),advisor,지도교수,0.029513,1202,1202,0.027161,0.031538
+bge,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.012927,1227,,,
+bge,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000590,5211,,,
+bge,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000255,276118,,,
+bge,all,학위 전후 (−3…+3),advisor,지도교수,0.027474,1000,1000,0.024905,0.030204
+bge,all,학위 전후 (−3…+3),sibling,형제 교수,0.018290,1662,,,
+bge,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000244,4625,,,
+bge,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000259,253226,,,
+bge,all,학위 후 10년 (+1…+10),advisor,지도교수,0.022395,774,774,0.019527,0.025217
+bge,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.018289,2040,,,
+bge,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000689,4186,,,
+bge,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000256,232296,,,
+bge,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014823,144,144,0.008344,0.020419
+bge,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.016075,1380,,,
+bge,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000946,1709,,,
+bge,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000205,97988,,,
+bge,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.023759,639,639,0.020767,0.026689
+bge,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.012356,181,,,
+bge,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000237,3066,,,
+bge,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000197,147113,,,
+bge,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.029513,1202,1202,0.027161,0.031538
+bge,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.012175,1156,,,
+bge,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000910,5352,,,
+bge,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000250,276838,,,
+bge,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.027474,1000,1000,0.024905,0.030204
+bge,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.017869,1579,,,
+bge,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000381,4785,,,
+bge,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000252,254045,,,
+bge,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.022395,774,774,0.019527,0.025217
+bge,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.018032,1960,,,
+bge,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000606,4361,,,
+bge,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000252,233199,,,
+bge,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014823,144,144,0.008344,0.020419
+bge,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.016091,1341,,,
+bge,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.001120,1776,,,
+bge,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000219,98453,,,
+bge,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.023759,639,639,0.020767,0.026689
+bge,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.012843,172,,,
+bge,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000340,3095,,,
+bge,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000197,147382,,,
+bge,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.029513,1202,1202,0.027161,0.031538
+bge,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.012927,1227,,,
+bge,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000910,5352,,,
+bge,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000258,276617,,,
+bge,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.027474,1000,1000,0.024905,0.030204
+bge,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.018290,1662,,,
+bge,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000381,4785,,,
+bge,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000262,253763,,,
+bge,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.022395,774,774,0.019527,0.025217
+bge,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.018289,2040,,,
+bge,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000606,4361,,,
+bge,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000262,232898,,,
+bge,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014823,144,144,0.008344,0.020419
+bge,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.016075,1380,,,
+bge,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.001120,1776,,,
+bge,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000225,98269,,,
+bge,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.023759,639,639,0.020767,0.026689
+bge,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.012356,181,,,
+bge,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000340,3095,,,
+bge,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000199,147344,,,
+bge_subset,all,학위 전 10년 (−10…−1),advisor,지도교수,0.027727,987,987,0.025210,0.030672
+bge_subset,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.013933,967,,,
+bge_subset,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000506,4393,,,
+bge_subset,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000270,229519,,,
+bge_subset,all,학위 전후 (−3…+3),advisor,지도교수,0.025564,814,814,0.022555,0.028226
+bge_subset,all,학위 전후 (−3…+3),sibling,형제 교수,0.019600,1210,,,
+bge_subset,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000193,3760,,,
+bge_subset,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000268,204845,,,
+bge_subset,all,학위 후 10년 (+1…+10),advisor,지도교수,0.021648,614,614,0.018161,0.024442
+bge_subset,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.018901,1335,,,
+bge_subset,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000043,3295,,,
+bge_subset,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000267,180502,,,
+bge_subset,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.012514,101,101,0.005670,0.019352
+bge_subset,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.015706,730,,,
+bge_subset,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000288,1167,,,
+bge_subset,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000178,66989,,,
+bge_subset,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.022335,566,566,0.019198,0.025715
+bge_subset,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.012528,154,,,
+bge_subset,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000101,2726,,,
+bge_subset,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000196,129775,,,
+bge_subset,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.027727,987,987,0.025210,0.030672
+bge_subset,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.013106,903,,,
+bge_subset,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000903,4515,,,
+bge_subset,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000262,230157,,,
+bge_subset,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.025564,814,814,0.022555,0.028226
+bge_subset,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.019121,1136,,,
+bge_subset,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000366,3901,,,
+bge_subset,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000258,205570,,,
+bge_subset,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.021648,614,614,0.018161,0.024442
+bge_subset,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.018608,1270,,,
+bge_subset,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000046,3454,,,
+bge_subset,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000260,181285,,,
+bge_subset,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.012514,101,101,0.005670,0.019352
+bge_subset,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.015832,706,,,
+bge_subset,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000664,1230,,,
+bge_subset,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000202,67339,,,
+bge_subset,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.022335,566,566,0.019198,0.025715
+bge_subset,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.013136,146,,,
+bge_subset,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000198,2752,,,
+bge_subset,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000192,130012,,,
+bge_subset,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.027727,987,987,0.025210,0.030672
+bge_subset,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.013933,967,,,
+bge_subset,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000903,4515,,,
+bge_subset,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000272,229958,,,
+bge_subset,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.025564,814,814,0.022555,0.028226
+bge_subset,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.019600,1210,,,
+bge_subset,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000366,3901,,,
+bge_subset,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000269,205319,,,
+bge_subset,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.021648,614,614,0.018161,0.024442
+bge_subset,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.018901,1335,,,
+bge_subset,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000046,3454,,,
+bge_subset,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000275,181053,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.012514,101,101,0.005670,0.019352
+bge_subset,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.015706,730,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000664,1230,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000209,67249,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.022335,566,566,0.019198,0.025715
+bge_subset,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.012528,154,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000198,2752,,,
+bge_subset,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000195,129980,,,
+lsa300,all,학위 전 10년 (−10…−1),advisor,지도교수,0.041957,987,987,0.038043,0.046857
+lsa300,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.022859,967,,,
+lsa300,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000156,4393,,,
+lsa300,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000407,229519,,,
+lsa300,all,학위 전후 (−3…+3),advisor,지도교수,0.038241,814,814,0.033179,0.043350
+lsa300,all,학위 전후 (−3…+3),sibling,형제 교수,0.028480,1210,,,
+lsa300,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.002664,3760,,,
+lsa300,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000483,204845,,,
+lsa300,all,학위 후 10년 (+1…+10),advisor,지도교수,0.036809,614,614,0.031876,0.040962
+lsa300,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.029809,1335,,,
+lsa300,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.005701,3295,,,
+lsa300,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000553,180502,,,
+lsa300,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.023321,101,101,0.014429,0.032052
+lsa300,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.019529,730,,,
+lsa300,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,0.000322,1167,,,
+lsa300,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000252,66989,,,
+lsa300,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.031072,566,566,0.025754,0.036013
+lsa300,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.018977,154,,,
+lsa300,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.002397,2726,,,
+lsa300,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000335,129775,,,
+lsa300,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.041957,987,987,0.038043,0.046857
+lsa300,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.022157,903,,,
+lsa300,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000239,4515,,,
+lsa300,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000390,230157,,,
+lsa300,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.038241,814,814,0.033179,0.043350
+lsa300,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.028735,1136,,,
+lsa300,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.002787,3901,,,
+lsa300,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000464,205570,,,
+lsa300,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.036809,614,614,0.031876,0.040962
+lsa300,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.029920,1270,,,
+lsa300,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.005594,3454,,,
+lsa300,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000533,181285,,,
+lsa300,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.023321,101,101,0.014429,0.032052
+lsa300,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.020086,706,,,
+lsa300,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000059,1230,,,
+lsa300,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000272,67339,,,
+lsa300,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.031072,566,566,0.025754,0.036013
+lsa300,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.019981,146,,,
+lsa300,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.002321,2752,,,
+lsa300,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000344,130012,,,
+lsa300,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.041957,987,987,0.038043,0.046857
+lsa300,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.022859,967,,,
+lsa300,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000239,4515,,,
+lsa300,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000401,229958,,,
+lsa300,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.038241,814,814,0.033179,0.043350
+lsa300,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.028480,1210,,,
+lsa300,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.002787,3901,,,
+lsa300,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000475,205319,,,
+lsa300,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.036809,614,614,0.031876,0.040962
+lsa300,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.029809,1335,,,
+lsa300,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.005594,3454,,,
+lsa300,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000549,181053,,,
+lsa300,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.023321,101,101,0.014429,0.032052
+lsa300,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.019529,730,,,
+lsa300,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000059,1230,,,
+lsa300,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000285,67249,,,
+lsa300,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.031072,566,566,0.025754,0.036013
+lsa300,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.018977,154,,,
+lsa300,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.002321,2752,,,
+lsa300,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000344,129980,,,
+lda50,all,학위 전 10년 (−10…−1),advisor,지도교수,0.114164,987,987,0.106047,0.123487
+lda50,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.109315,967,,,
+lda50,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.003268,4393,,,
+lda50,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.001578,229519,,,
+lda50,all,학위 전후 (−3…+3),advisor,지도교수,0.109909,814,814,0.099583,0.121228
+lda50,all,학위 전후 (−3…+3),sibling,형제 교수,0.111056,1210,,,
+lda50,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.002271,3760,,,
+lda50,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.001778,204845,,,
+lda50,all,학위 후 10년 (+1…+10),advisor,지도교수,0.109320,614,614,0.098027,0.120691
+lda50,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.111219,1335,,,
+lda50,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.003881,3295,,,
+lda50,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.001727,180502,,,
+lda50,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.071368,101,101,0.047055,0.096620
+lda50,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.100215,730,,,
+lda50,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.006905,1167,,,
+lda50,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.001143,66989,,,
+lda50,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.103541,566,566,0.092707,0.113902
+lda50,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.103125,154,,,
+lda50,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.004741,2726,,,
+lda50,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.001146,129775,,,
+lda50,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.114164,987,987,0.106047,0.123487
+lda50,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.109298,903,,,
+lda50,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.003759,4515,,,
+lda50,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.001546,230157,,,
+lda50,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.109909,814,814,0.099583,0.121228
+lda50,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.112700,1136,,,
+lda50,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.001842,3901,,,
+lda50,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.001727,205570,,,
+lda50,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.109320,614,614,0.098027,0.120691
+lda50,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.112570,1270,,,
+lda50,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.004095,3454,,,
+lda50,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.001693,181285,,,
+lda50,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.071368,101,101,0.047055,0.096620
+lda50,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.102248,706,,,
+lda50,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.008861,1230,,,
+lda50,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.001299,67339,,,
+lda50,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.103541,566,566,0.092707,0.113902
+lda50,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.107646,146,,,
+lda50,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.004987,2752,,,
+lda50,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.001144,130012,,,
+lda50,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.114164,987,987,0.106047,0.123487
+lda50,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.109315,967,,,
+lda50,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.003759,4515,,,
+lda50,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.001586,229958,,,
+lda50,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.109909,814,814,0.099583,0.121228
+lda50,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.111056,1210,,,
+lda50,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.001842,3901,,,
+lda50,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.001782,205319,,,
+lda50,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.109320,614,614,0.098027,0.120691
+lda50,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.111219,1335,,,
+lda50,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.004095,3454,,,
+lda50,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.001771,181053,,,
+lda50,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.071368,101,101,0.047055,0.096620
+lda50,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.100215,730,,,
+lda50,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.008861,1230,,,
+lda50,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.001359,67249,,,
+lda50,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.103541,566,566,0.092707,0.113902
+lda50,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.103125,154,,,
+lda50,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.004987,2752,,,
+lda50,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.001158,129980,,,
+ko_sroberta,all,학위 전 10년 (−10…−1),advisor,지도교수,0.043101,1202,1202,0.039919,0.046253
+ko_sroberta,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.024691,1227,,,
+ko_sroberta,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.001422,5211,,,
+ko_sroberta,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000426,276118,,,
+ko_sroberta,all,학위 전후 (−3…+3),advisor,지도교수,0.041785,1000,1000,0.038306,0.045419
+ko_sroberta,all,학위 전후 (−3…+3),sibling,형제 교수,0.030259,1662,,,
+ko_sroberta,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.001048,4625,,,
+ko_sroberta,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000465,253226,,,
+ko_sroberta,all,학위 후 10년 (+1…+10),advisor,지도교수,0.036354,774,774,0.032042,0.040214
+ko_sroberta,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.031171,2040,,,
+ko_sroberta,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.001315,4186,,,
+ko_sroberta,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000455,232296,,,
+ko_sroberta,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.025706,144,144,0.016835,0.034595
+ko_sroberta,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.028195,1380,,,
+ko_sroberta,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.001038,1709,,,
+ko_sroberta,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000354,97988,,,
+ko_sroberta,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.036507,639,639,0.031922,0.041143
+ko_sroberta,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.024292,181,,,
+ko_sroberta,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000497,3066,,,
+ko_sroberta,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000328,147113,,,
+ko_sroberta,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.043101,1202,1202,0.039919,0.046253
+ko_sroberta,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.024052,1156,,,
+ko_sroberta,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.002225,5352,,,
+ko_sroberta,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000416,276838,,,
+ko_sroberta,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.041785,1000,1000,0.038306,0.045419
+ko_sroberta,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.030123,1579,,,
+ko_sroberta,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.001137,4785,,,
+ko_sroberta,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000454,254045,,,
+ko_sroberta,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.036354,774,774,0.032042,0.040214
+ko_sroberta,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.031081,1960,,,
+ko_sroberta,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.001273,4361,,,
+ko_sroberta,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000448,233199,,,
+ko_sroberta,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.025706,144,144,0.016835,0.034595
+ko_sroberta,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.028203,1341,,,
+ko_sroberta,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.001621,1776,,,
+ko_sroberta,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000373,98453,,,
+ko_sroberta,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.036507,639,639,0.031922,0.041143
+ko_sroberta,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.025467,172,,,
+ko_sroberta,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000688,3095,,,
+ko_sroberta,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000323,147382,,,
+ko_sroberta,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.043101,1202,1202,0.039919,0.046253
+ko_sroberta,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.024691,1227,,,
+ko_sroberta,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.002225,5352,,,
+ko_sroberta,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000428,276617,,,
+ko_sroberta,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.041785,1000,1000,0.038306,0.045419
+ko_sroberta,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.030259,1662,,,
+ko_sroberta,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.001137,4785,,,
+ko_sroberta,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000470,253763,,,
+ko_sroberta,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.036354,774,774,0.032042,0.040214
+ko_sroberta,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.031171,2040,,,
+ko_sroberta,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.001273,4361,,,
+ko_sroberta,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000464,232898,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.025706,144,144,0.016835,0.034595
+ko_sroberta,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.028195,1380,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.001621,1776,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000388,98269,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.036507,639,639,0.031922,0.041143
+ko_sroberta,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.024292,181,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,-0.000688,3095,,,
+ko_sroberta,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000327,147344,,,
+e5_large,all,학위 전 10년 (−10…−1),advisor,지도교수,0.006590,1202,1202,0.005970,0.007088
+e5_large,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.001558,1227,,,
+e5_large,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000193,5211,,,
+e5_large,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000049,276118,,,
+e5_large,all,학위 전후 (−3…+3),advisor,지도교수,0.006317,1000,1000,0.005643,0.006994
+e5_large,all,학위 전후 (−3…+3),sibling,형제 교수,0.003341,1662,,,
+e5_large,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000030,4625,,,
+e5_large,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000054,253226,,,
+e5_large,all,학위 후 10년 (+1…+10),advisor,지도교수,0.004880,774,774,0.004172,0.005579
+e5_large,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.003486,2040,,,
+e5_large,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000293,4186,,,
+e5_large,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000050,232296,,,
+e5_large,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.003281,144,144,0.001682,0.004781
+e5_large,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.002943,1380,,,
+e5_large,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000195,1709,,,
+e5_large,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000043,97988,,,
+e5_large,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.005644,639,639,0.004923,0.006307
+e5_large,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.002598,181,,,
+e5_large,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000143,3066,,,
+e5_large,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000052,147113,,,
+e5_large,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.006590,1202,1202,0.005970,0.007088
+e5_large,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.001361,1156,,,
+e5_large,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000257,5352,,,
+e5_large,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000048,276838,,,
+e5_large,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.006317,1000,1000,0.005643,0.006994
+e5_large,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.003259,1579,,,
+e5_large,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000059,4785,,,
+e5_large,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000052,254045,,,
+e5_large,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.004880,774,774,0.004172,0.005579
+e5_large,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.003425,1960,,,
+e5_large,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000279,4361,,,
+e5_large,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000049,233199,,,
+e5_large,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.003281,144,144,0.001682,0.004781
+e5_large,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.002959,1341,,,
+e5_large,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000224,1776,,,
+e5_large,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000046,98453,,,
+e5_large,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.005644,639,639,0.004923,0.006307
+e5_large,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.002572,172,,,
+e5_large,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000119,3095,,,
+e5_large,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000052,147382,,,
+e5_large,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.006590,1202,1202,0.005970,0.007088
+e5_large,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.001558,1227,,,
+e5_large,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,-0.000257,5352,,,
+e5_large,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000051,276617,,,
+e5_large,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.006317,1000,1000,0.005643,0.006994
+e5_large,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.003341,1662,,,
+e5_large,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,-0.000059,4785,,,
+e5_large,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000055,253763,,,
+e5_large,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.004880,774,774,0.004172,0.005579
+e5_large,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.003486,2040,,,
+e5_large,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,-0.000279,4361,,,
+e5_large,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000052,232898,,,
+e5_large,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.003281,144,144,0.001682,0.004781
+e5_large,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.002943,1380,,,
+e5_large,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,-0.000224,1776,,,
+e5_large,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000046,98269,,,
+e5_large,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.005644,639,639,0.004923,0.006307
+e5_large,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.002598,181,,,
+e5_large,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000119,3095,,,
+e5_large,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000052,147344,,,
+mpnet_multilingual,all,학위 전 10년 (−10…−1),advisor,지도교수,0.023851,1202,1202,0.020172,0.027314
+mpnet_multilingual,all,학위 전 10년 (−10…−1),sibling,형제 교수,0.003998,1227,,,
+mpnet_multilingual,all,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,0.001099,5211,,,
+mpnet_multilingual,all,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000175,276118,,,
+mpnet_multilingual,all,학위 전후 (−3…+3),advisor,지도교수,0.020563,1000,1000,0.016679,0.023674
+mpnet_multilingual,all,학위 전후 (−3…+3),sibling,형제 교수,0.009404,1662,,,
+mpnet_multilingual,all,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.001617,4625,,,
+mpnet_multilingual,all,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000196,253226,,,
+mpnet_multilingual,all,학위 후 10년 (+1…+10),advisor,지도교수,0.016527,774,774,0.012464,0.020194
+mpnet_multilingual,all,학위 후 10년 (+1…+10),sibling,형제 교수,0.010477,2040,,,
+mpnet_multilingual,all,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000424,4186,,,
+mpnet_multilingual,all,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000213,232296,,,
+mpnet_multilingual,all,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014059,144,144,0.005471,0.024327
+mpnet_multilingual,all,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.009295,1380,,,
+mpnet_multilingual,all,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,0.001101,1709,,,
+mpnet_multilingual,all,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000126,97988,,,
+mpnet_multilingual,all,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.019674,639,639,0.014877,0.024208
+mpnet_multilingual,all,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.014548,181,,,
+mpnet_multilingual,all,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000756,3066,,,
+mpnet_multilingual,all,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000130,147113,,,
+mpnet_multilingual,confirmed,학위 전 10년 (−10…−1),advisor,지도교수,0.023851,1202,1202,0.020172,0.027314
+mpnet_multilingual,confirmed,학위 전 10년 (−10…−1),sibling,형제 교수,0.003236,1156,,,
+mpnet_multilingual,confirmed,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,0.000462,5352,,,
+mpnet_multilingual,confirmed,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000172,276838,,,
+mpnet_multilingual,confirmed,학위 전후 (−3…+3),advisor,지도교수,0.020563,1000,1000,0.016679,0.023674
+mpnet_multilingual,confirmed,학위 전후 (−3…+3),sibling,형제 교수,0.009606,1579,,,
+mpnet_multilingual,confirmed,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.001425,4785,,,
+mpnet_multilingual,confirmed,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000186,254045,,,
+mpnet_multilingual,confirmed,학위 후 10년 (+1…+10),advisor,지도교수,0.016527,774,774,0.012464,0.020194
+mpnet_multilingual,confirmed,학위 후 10년 (+1…+10),sibling,형제 교수,0.010449,1960,,,
+mpnet_multilingual,confirmed,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000550,4361,,,
+mpnet_multilingual,confirmed,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000204,233199,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014059,144,144,0.005471,0.024327
+mpnet_multilingual,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.009055,1341,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,0.000922,1776,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000129,98453,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.019674,639,639,0.014877,0.024208
+mpnet_multilingual,confirmed,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.015286,172,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000738,3095,,,
+mpnet_multilingual,confirmed,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000129,147382,,,
+mpnet_multilingual,confirmed_inferred,학위 전 10년 (−10…−1),advisor,지도교수,0.023851,1202,1202,0.020172,0.027314
+mpnet_multilingual,confirmed_inferred,학위 전 10년 (−10…−1),sibling,형제 교수,0.003998,1227,,,
+mpnet_multilingual,confirmed_inferred,학위 전 10년 (−10…−1),same_uni_outside_lineage,계보 밖 같은 대학,0.000462,5352,,,
+mpnet_multilingual,confirmed_inferred,학위 전 10년 (−10…−1),base,기준(다른 대학·계보 밖),-0.000178,276617,,,
+mpnet_multilingual,confirmed_inferred,학위 전후 (−3…+3),advisor,지도교수,0.020563,1000,1000,0.016679,0.023674
+mpnet_multilingual,confirmed_inferred,학위 전후 (−3…+3),sibling,형제 교수,0.009404,1662,,,
+mpnet_multilingual,confirmed_inferred,학위 전후 (−3…+3),same_uni_outside_lineage,계보 밖 같은 대학,0.001425,4785,,,
+mpnet_multilingual,confirmed_inferred,학위 전후 (−3…+3),base,기준(다른 대학·계보 밖),-0.000193,253763,,,
+mpnet_multilingual,confirmed_inferred,학위 후 10년 (+1…+10),advisor,지도교수,0.016527,774,774,0.012464,0.020194
+mpnet_multilingual,confirmed_inferred,학위 후 10년 (+1…+10),sibling,형제 교수,0.010477,2040,,,
+mpnet_multilingual,confirmed_inferred,학위 후 10년 (+1…+10),same_uni_outside_lineage,계보 밖 같은 대학,0.000550,4361,,,
+mpnet_multilingual,confirmed_inferred,학위 후 10년 (+1…+10),base,기준(다른 대학·계보 밖),-0.000209,232898,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),advisor,지도교수,0.014059,144,144,0.005471,0.024327
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),sibling,형제 교수,0.009295,1380,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),same_uni_outside_lineage,계보 밖 같은 대학,0.000922,1776,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 뒤 이후 (+11…+30),base,기준(다른 대학·계보 밖),-0.000131,98269,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),advisor,지도교수,0.019674,639,639,0.014877,0.024208
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),sibling,형제 교수,0.014548,181,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),same_uni_outside_lineage,계보 밖 같은 대학,0.000738,3095,,,
+mpnet_multilingual,confirmed_inferred,위약: 학위 11년 전 이전 (−30…−11),base,기준(다른 대학·계보 밖),-0.000129,147344,,,

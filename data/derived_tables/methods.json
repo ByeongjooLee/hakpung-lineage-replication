@@ -1,0 +1,144 @@
+{
+ "as_of": "2026-11-22",
+ "generated": "2026-11-22 16:10",
+ "sample": {
+  "theses_bge": 1434,
+  "theses_lexical": 1145,
+  "professors": 298,
+  "professor_kci_articles": 5967,
+  "pairs_bge": 427332,
+  "pairs_lexical": 341210,
+  "genealogy_as_of": "2026-11-22",
+  "prof_prof_edges": {
+   "all": {
+    "used": 233,
+    "all": 233
+   },
+   "confirmed": {
+    "used": 219,
+    "all": 233
+   },
+   "confirmed_inferred": {
+    "used": 227,
+    "all": 233
+   }
+  },
+  "student_identity_status_in_sample": {
+   "미확인": 1314,
+   "확정": 112,
+   "추론": 8
+  }
+ },
+ "data_sources": {
+  "theses": "RISS 통합목록 박사학위논문(control_no = thesis_id, 16~32자 16진수), 서울대 Primo(snu:), 통합목록 미대응(DDMKL_UNMATCHED_)",
+  "genealogy": "<SITE> site/data/genealogy-library.json (교수·학위자 노드, 지도 간선, 동일인 판정 3단계 확정/추론/미확인)",
+  "professor_articles": "KCI Open API articleDetail 수집본(국어국문학·문학 학술지 124종 82,344편, 2000–2026) 중 교수의 A 등급 KCI 연구자 ID(cretId) 집합에 속한 논문. cretId 는 KCI 논문 페이지 저자 링크에 공개된 식별자",
+  "authority": "국립중앙도서관 LOD 인물 전거(KAC)·ISNI — A 등급(문학 분야 + 소속/논문 제목 일치)만. 동명 인물이 같은 KAC 를 받은 교수는 kac·isni 를 비우고 kac_shared_with_namesake 에 상대를 적음(연구자 판정 전)",
+  "embeddings_not_included": "bge-m3 임베딩·TF-IDF·LSA·LDA θ 의 원 벡터, KCI 초록, 박사논문 본문·토큰 캐시는 포함하지 않음(원문 복원 가능성). 쌍별 코사인·잔차와 토픽 θ(박사논문·교수 묶음)만 공개"
+ },
+ "representations": {
+  "bge": {
+   "dim": 1024,
+   "note": "bge-m3 (BAAI/bge-m3, max_len 512) — 제자 = 박사논문 제목+개념어·인물 태그, 교수 묶음 = KCI 논문 제목+영문 키워드+국문 초록 600자 평균(L2)",
+   "n_theses": 1434,
+   "resid_sd": 0.02956937917051673,
+   "sample": "전체 1,434"
+  },
+  "bge_subset": {
+   "dim": 1024,
+   "note": "",
+   "n_theses": 1145,
+   "resid_sd": 0.029106996246485835,
+   "sample": "어휘 표본(본문 색인 있음)"
+  },
+  "tfidf": {
+   "dim": 30000,
+   "note": "",
+   "n_theses": 1145,
+   "resid_sd": 0.0196860011220111,
+   "sample": "어휘 표본(본문 색인 있음)"
+  },
+  "lsa300": {
+   "dim": 300,
+   "note": "",
+   "n_theses": 1145,
+   "resid_sd": 0.03801361596287088,
+   "sample": "어휘 표본(본문 색인 있음)"
+  },
+  "lda50": {
+   "dim": 50,
+   "note": "",
+   "n_theses": 1145,
+   "resid_sd": 0.11257772894548057,
+   "sample": "어휘 표본(본문 색인 있음)"
+  },
+  "ko_sroberta": {
+   "dim": 768,
+   "note": "",
+   "n_theses": 1434,
+   "resid_sd": 0.04454488219931129,
+   "sample": "전체 1,434"
+  },
+  "e5_large": {
+   "dim": 1024,
+   "note": "",
+   "n_theses": 1434,
+   "resid_sd": 0.006492663331210184,
+   "sample": "전체 1,434"
+  },
+  "mpnet_multilingual": {
+   "dim": 768,
+   "note": "",
+   "n_theses": 1434,
+   "resid_sd": 0.043778186929395856,
+   "sample": "전체 1,434"
+  }
+ },
+ "lexical_pipeline": {
+  "tokenizer": "kiwipiepy 명사(NNG·NNP), 한자 → 한글(hanja_norm.h2k), 숫자+년대 유지, 학술 상투어 불용어",
+  "corpus": "KCI 82,344편(제목+국문 초록 72,042편) + 박사논문 본문 1,593편(문단 단위 토큰화)",
+  "vocab": {
+   "min_df": 5,
+   "max_df": 0.4,
+   "max_features": 30000
+  },
+  "tfidf": "sublinear tf, 교수 묶음 = 논문 벡터 합(L2)",
+  "lsa": "TruncatedSVD 300",
+  "lda": "LatentDirichletAllocation K=50 online 10 passes seed 42; 문서 벡터 = sqrt(θ) L2 (내적 = Bhattacharyya 계수); 교수 묶음 = 논문 θ 평균의 sqrt",
+  "theta_in_tables": "thesis_topics_k50 = stu 벡터의 제곱(θ 합 1), professor_topics_k50 = prof 벡터의 제곱(평균 θ 를 합 1 로 정규화)"
+ },
+ "model": {
+  "dependent": "제자 박사논문 × 교수 묶음 유사도에서 논문 평균·교수 평균을 뺀 이원 고정효과 잔차(resid_*). 표본별 전체 행렬에서 잔차화(표본 크기는 sample 항목 참조)",
+  "relations": {
+   "advisor": "지도교수",
+   "grand": "조부 교수",
+   "sibling": "형제 교수",
+   "uncle": "삼촌 교수",
+   "lineage_other": "같은 계보 기타",
+   "same_uni_outside_lineage": "계보 밖 같은 대학",
+   "same_uni_x_lineage": "같은 대학×계보"
+  },
+  "relation_coding": "기준 = 다른 대학·계보 밖. 계보 관계(조부·형제·삼촌·기타)이면서 같은 대학이면 same_uni_x_lineage=1 로 추가 더미(stat_review.py 와 동일)",
+  "lineage_construction": "교수→교수 지도 간선(동일인 판정 상태로 제한 가능: all / confirmed / confirmed_inferred)에서 지도교수(첫 간선)·형제(같은 지도교수의 다른 교수 제자)·조부·삼촌(조부의 다른 제자)·같은 뿌리(뿌리 크기 ≥2)를 구성",
+  "se": "논문·교수 양방향 클러스터(Cameron–Gelbach–Miller) SE, Holm 보정(관계 항 7개), 교수/논문 클러스터 부트스트랩 300회(백분위 95%), 같은 대학 안 교수 열 순열 300회(같은-대학 항에는 정보 없음), seed 42",
+  "std_effect": "beta / 잔차 SD",
+  "windows": "지도교수 묶음을 학위 연도 기준 창(학위 전 10년 / 전후 3년 / 후 10년 / 위약 ±11년 이후)으로 나눠 창별 행렬을 따로 잔차화(문서 3편 이상인 교수만)"
+ },
+ "scripts": [
+  "prelim_similarity.py (bge-m3 묶음·간선 벡터)",
+  "tfidf_topic_replication.py (어휘 표현·토픽)",
+  "stat_review.py (회귀·검정; --edge-status 로 간선 단계)",
+  "lineage_sensitivity.py (단계별 재실행)",
+  "student_trajectory.py (제자 궤적)",
+  "match_cret_ids.py · build_identity_table.py (A 등급 식별)",
+  "export_derived_tables.py (이 표)"
+ ],
+ "caveats": [
+  "수집 범위(RISS 통합목록 박사논문 + 교수 명단 + 도서관 조회) 안의 관계만 센 값이며 전체 학계가 아니다",
+  "이름만 같은 저자는 자동 병합하지 않았다. A 등급 cretId·KAC 는 규칙 기반 판정이며 연구자 검토표가 따로 있다",
+  "학위자 동일인 판정이 미확인인 간선이 전체의 대부분이다(이 표 student_identity_status). 교수→교수 간선의 판정 상태별 재추정(edge_tier)이 regression_results 에 있다",
+  "조부(3세대) 효과는 표현과 표본 구성에 민감하다(학맥 정정 전 판에서는 확정 간선만으로 bge·tfidf 가 Holm 비유의였고, 정정판에서는 간선 대부분이 확정이어서 단계별 차이가 거의 없다)",
+  "학맥 정정판: 2026-11-04 교수 본인 박사논문 연결 전수 재검토와 그 뒤 추가 간선을 반영한 계보로 관계 부호·회귀·제자 궤적·계보 토픽을 다시 계산했다. 표본(논문 × 교수)과 유사도는 정정 전과 같다",
+  "같은-대학 항의 순열 p 는 같은 대학 안에서 섞으므로 정보가 없다(p=1)"
+ ]
+}
